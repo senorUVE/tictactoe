@@ -1,0 +1,3 @@
+C:/Users/Kokovino/Desktop/tictac/sem_3_laba32/out/build/x64-Debug/CMakeFiles/sem_3_laba32.dir
+C:/Users/Kokovino/Desktop/tictac/sem_3_laba32/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kokovino/Desktop/tictac/sem_3_laba32/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
